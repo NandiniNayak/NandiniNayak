@@ -4,7 +4,7 @@
 <ul>
     <li>I work at <a href="https://coderacademy.edu.au/">coderacademy</a> as a Web dev Bootcamp educator</li>
     <li>I have worked as an embedded software engineer at <a href="https://www.bosch.com/company"> Bosch </a> devising software solutions in the automotive world</li>
-    <li> I am intersted in the field of internet of things as I like applying the web dev knowledge to my embedded programming experience. I have built a few IOT prototypes using raspeberry pi, C programming, rails framework postgres database and javascript 
+    <li> I am intersted in the field of internet of things as I like applying the web dev knowledge to my embedded programming experience. I have built IOT prototypes using raspeberry pi, C programming, rails framework, postgres database and javascript which includes
         <ul>
             <li>Smart Parking app</li>
             <li>Smart light app</li>
